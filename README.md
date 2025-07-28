@@ -8,7 +8,10 @@ Includes user login / registration, payment simulation.
 ## 🚀 Features
 
 - 👤 Admin can:
-  - Manage Products, Categories, User Accounts, Orders
+  => username: 0704407644
+  => pass: admin
+  - ⚙️ Manage Products, Categories, User Accounts, Orders
+
 - 🧑 User can:
   - 🔐 User authentication (JWT)
   - 🛒 Product listing and detail view
